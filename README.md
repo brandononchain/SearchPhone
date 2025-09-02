@@ -1,10 +1,6 @@
 # SearchPhone
 𝐒𝐞𝐚𝐫𝐜𝐡 𝐏𝐡𝐨𝐧𝐞 is a tool for looking up linked phone number information, which uses the Phone Number Analyzer API from the RAPIDAPI website, developed for use with Python from the terminal. 👁
 
-[![Join our Fanpage](https://img.shields.io/badge/Join%20Our%20Fanpage-Hack%20Underway-1.svg)](https://www.facebook.com/HackUnderway/)
-
-<img src="https://github.com/HackUnderway/SearchPhone/blob/main/screenshots/Test1.png" title="Search Phone">
-
 # 🔑 API Key
 Get your API key.
 
